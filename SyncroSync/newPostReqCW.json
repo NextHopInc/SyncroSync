@@ -1,0 +1,41 @@
+{
+    "id": 0,
+    "name": "RADSERVER1",
+    "type": {
+        "id": 8,
+        "name": "server"
+    },
+    "status": {
+        "id": 1,
+        "name": "Active"
+    },
+    "company": {
+        "id": 702,
+        "identifier": "Radelet & Company",
+        "name": "Radelet & Company"
+    },
+    "contact": {
+        "id": null,
+        "name": null
+    },
+    "site": {
+        "id": 804,
+        "name": "main"
+    },
+    "manufacturer": {
+        "id": 257,
+        "name": "Microsoft Corporation"
+    },
+    "installationDate": "2015-07-10T23:01:12Z",
+    "billFlag": true,
+    "ipAddress": "192.168.1.3",
+    "macAddress": "00-15-5D-01-47-00",
+    "defaultGateway": "fe80::208:a2ff:fe12:3ce7%12",
+    "ram": 15,
+    "osType": "Microsoft Windows Server 2012 R2 Standard",
+    "cpuSpeed": "Intel(R) Xeon(R) CPU E5-2430 v2 @ 2.50GHz",
+    "tagNumber": "zz",
+    "serialNumber": "7332-3429-9615-2788-9259-4345-35",
+    "modelNumber": "Virtual Machine",
+    "lastLoginName": "RADELET\\RAD_Admin"
+}

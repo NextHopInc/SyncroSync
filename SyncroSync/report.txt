@@ -1,0 +1,96 @@
+December-16-2022 15:45:38
+________________________________________________________________
+{
+    "PKC-LT02": "Asset Created",
+    "PCADC02": "Asset Created",
+    "YYJWS13": "Asset Created",
+    "JORGE-LAPTOP02": "Asset Created",
+    "YVRMTCE-LT31": "Asset Created",
+    "KEL-SALES-2": "Asset Created",
+    "YYJWS12": "Asset Created",
+    "MCAWS25": "Asset Could not be created",
+    "requset": {
+        "id": 0,
+        "name": "bizhub 454e 1",
+        "type": {
+            "id": 28,
+            "name": "Printer"
+        },
+        "status": {
+            "id": 1,
+            "name": "Active"
+        },
+        "company": {
+            "id": 702,
+            "identifier": "Radelet & Company",
+            "name": "Radelet & Company"
+        },
+        "contact": {
+            "id": 2161,
+            "name": "Mona Radelet"
+        },
+        "site": {
+            "id": 804,
+            "name": "main"
+        },
+        "manufacturer": {
+            "id": null,
+            "name": null
+        },
+        "installationDate": "1753-07-12T12:44:52Z",
+        "billFlag": true,
+        "ipAddress": "Cant Find IP address",
+        "macAddress": "00:20:6B:95:F7:FF",
+        "defaultGateway": "Cant get gateway",
+        "ram": "Cant get RAM",
+        "osType": "Cant Get os",
+        "cpuSpeed": "Cant Find CPU information",
+        "tagNumber": "zz",
+        "serialNumber": "Cant find serial",
+        "modelNumber": null,
+        "lastLoginName": "Cant find login"
+    },
+    "Status": {
+        "code": "InvalidObject",
+        "message": "configuration object is invalid",
+        "errors": [
+            {
+                "code": "InvalidField",
+                "message": "Invalid IP Address",
+                "resource": "configuration",
+                "field": "ipAddress"
+            }
+        ]
+    },
+    "MCAWS24": "Asset Created",
+    "MCAWS23": "Asset Created",
+    "SCOTTLENOVOM80Q": "Asset Created",
+    "NHSACRONISBDR55": "Asset Created",
+    "20PMT12": "Asset Created",
+    "VINGE-WS34": "Asset Created",
+    "AB-W10X64-TECH1": "Asset Could not be created",
+    "MPR-L10": "Asset Created",
+    "YVRESLT13": "Asset Created",
+    "RyanDuff": "Asset Created",
+    "MANWKSX03": "Asset Could not be created",
+    "DESKTOP-547Q8VP": "Asset Could not be created",
+    "YVRCSAWS45": "Asset Created",
+    "LE-VWS-3": "Asset Created",
+    "LE-VWS-10": "Asset Created",
+    "XXC-MFDHV01": "Asset Could not be created",
+    "MFD-E560-1": "Asset Created",
+    "CDXWS-JOSE": "Asset Created",
+    "CDXLT-DALOM": "Asset Created",
+    "PLLWS10": "Asset Created",
+    "CDXWS-ZHI": "Asset Created",
+    "GWWS15": "Asset Created",
+    "FISWS02": "Asset Created",
+    "YVRCSAWS30": "Asset Created",
+    "CCS-LABLT59": "Asset Created",
+    "CCS-WS04": "Asset Created",
+    "PC015": "Asset Created",
+    "PC033": "Asset Created",
+    "bizhub 454e 2": "Asset Could not be created",
+    "bizhub 454e 1": "Asset Could not be created"
+}
+________________________________________________________________
